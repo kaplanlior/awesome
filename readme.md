@@ -727,6 +727,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Isreali Open Source Companies](https://github.com/KaplanOpenSource/israeli-opensource-companies) - a list of Israeli companies with Open Source projects
 
 ## Work
 
